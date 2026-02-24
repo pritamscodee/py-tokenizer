@@ -11,7 +11,7 @@ from Tokenizer import Tokenizer
 st.title("🚀 How AI CONVERT TEXT INTO TOKEN USING  THEIR TOKENIZER")
 st.header(" INPUT YOUR VALUE IN TEXT  ")
 
-st.markdown("## 🧠 GEN AI ")
+
 
 
 
