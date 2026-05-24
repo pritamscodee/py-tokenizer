@@ -1,3 +1,5 @@
-## 🏆 Certifications & Achievements
+## 🏆 Microsoft Learn Achievement
 
-[![Microsoft Learn Achievement](https://img.shields.io/badge/Microsoft%20Learn-Achievement-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/achievements/share/en-us/pritammondal-0631/FEAF2L7X?sharingId=954E83E03C12FF84)
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/pritammondal-0631/FEAF2L7X?sharingId=954E83E03C12FF84">
+  <img src="https://img.shields.io/badge/Microsoft-Learn%20Achievement-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
