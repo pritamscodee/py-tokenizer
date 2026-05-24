@@ -1,5 +1,1 @@
-## 🏆 Microsoft Learn Achievement
-
-<a href="https://learn.microsoft.com/api/achievements/share/en-us/pritammondal-0631/FEAF2L7X?sharingId=954E83E03C12FF84">
-  <img src="https://img.shields.io/badge/Microsoft-Learn%20Achievement-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/pritammondal-0631/FEAF2L7X?sharingId=954E83E03C12FF84)
